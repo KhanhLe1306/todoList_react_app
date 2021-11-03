@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from 'react'
-import styles from './styles.css'
+import './styles.css'
 import ShowTodos from './ShowTodos'
 import Header from './Header'
 import { v4 } from 'uuid'
